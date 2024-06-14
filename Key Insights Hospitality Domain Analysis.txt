@@ -1,0 +1,10 @@
+Key Insights: Hospitality Domain Analysis
+
+1. As observed in the graph 'Trend by Key Metrics' between RevPAR, ADR & Occupancy %; the ADR metric is constant over the week on week changes which is indicative of a flat pricing strategy of the hotels. With this insight the hotel can look to adopt a dynamic pricing strategy for their rooms according to the seasons. The insight also shed a light on the minimal variation in revenue generated during the weekdays & weekends relative to the previous point.
+
+2. There is a direct correlation between the Occupancy % and average ratings, with higher occupancy % earning higher ratings and consequently the revenue generated. Hence, a root cause analysis is necessary to look into the low performing hotels.
+
+3. Among the room classes, the 'Elite' room class has generated most revenue across all the four cities followed by Premium, Presidential and Standard room class.
+
+4. It is also observed that 'makeyourtrip' online booking platform serves as the best revenue generator among its competitors. Also, direct offline mode generates highest ADR compared to direct online mode of the hotel. To optimize bookings through online platforms it is important to maintain consistent pricing across all platforms including that of the hotel's. Furthermore, it is of paramount importance that the online content is updated across all the platforms to maintain a strong online presence.
+    
